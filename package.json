@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "serve": "nodemon index.js"
+    "start": "node index.js"
   },
   "engines": {
     "node": "21.5.0"
